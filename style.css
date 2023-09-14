@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ece8da;
+  font-family: arial;
+  margin-left: 40px;
+}
+
+.main {
+  padding: 10px;
+}
+
+/* LEFT SIDE OF THE WEBSITE */
+
+.first-title {
+  color: #565959;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.left-title {
+  font-size: 12px;
+  color: rgb(66, 59, 59);
+}
+
+.left {
+  width: 400px;
+  height: 520px;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0.1px 0.2px 1px rgb(27, 21, 21);
+  padding: 2px;
+  position: absolute;
+  background-color: white;
+}
+
+.left-para {
+  width: auto;
+  height: auto;
+  background-color: black;
+  color: white;
+  margin: 0;
+  margin: auto;
+  font-size: 12px;
+  padding: 5px;
+  color: #c7ebeb;
+  font-family: arial;
+}
+
+.left-title {
+  color: #565959;
+  text-align: center;
+}
+
+.how,
+.to {
+  font-size: 25px;
+  font-weight: bolder;
+  color: rgb(11, 24, 196);
+  line-height: 10px;
+}
+
+.gun {
+  font-size: 40px;
+  font-weight: bolder;
+  color: red;
+  line-height: 8px;
+}
+
+.hr-one,
+.hr-two {
+  width: 160px;
+  margin-left: 10px;
+  height: 3px;
+  position: relative;
+  background-color: rgb(5, 5, 59);
+}
+
+.and {
+  font-size: 13px;
+  font-weight: bold;
+  position: absolute;
+  top: 220px;
+  left: 190px;
+  color: rgb(83, 4, 4);
+}
+
+.hr-two {
+  width: 165px;
+  position: absolute;
+  top: 215px;
+  left: 220px;
+}
+
+.words {
+  line-height: 8px;
+  margin-top: 30px;
+  font-size: 12px;
+  color: rgb(5, 5, 59);
+}
+
+.s {
+  margin: 0;
+}
+
+.cat-picture {
+  margin-top: 300px;
+  margin-left: 40px;
+}
+
+.cat-picture,
+img {
+  border-radius: 5px;
+  width: 300px;
+  object-fit: cover;
+  margin-top: 160px;
+  margin-left: 25px;
+  position: relative;
+}
+
+/* RIGHT SIDE OF THE WEBSITE */
+
+.rigth {
+  width: 600px;
+  height: 480px;
+  float: right;
+  position: relative;
+  left: -230px;
+  padding: 20px 0 20px 20px;
+  margin-top: -550px;
+}
+
+.author {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.explain {
+  font-size: 30px;
+  width: 550px;
+}
+
+.copyrigth {
+  text-align: center;
+  color: gray;
+}
